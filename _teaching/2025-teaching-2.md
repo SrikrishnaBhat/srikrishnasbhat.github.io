@@ -2,7 +2,7 @@
 title: "2025 Teaching Experience"
 collection: teaching
 type: "Postgraduate and Undergraduate Courses"
-permalink: /teaching/2025-teaching
+permalink: /teaching/2025-teaching-2
 venue: "School of Electrical Engineering, The University of Queensland"
 date: 2025-01-01
 location: "Meaanjin/Brisbane, QLD"
