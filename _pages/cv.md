@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+
+This section has my Industry Experience.
+To download the full CV, [click here](../files/srikrishnasbhat_cv.pdf).
+
 # Industry Experience
 **Jan 2019 — Feb 2022**     **Senior Software Engineer (Band 7A), IBM India Software Labs**
                             *Bengaluru, Karnataka, India*
@@ -52,6 +56,4 @@ the project, most of the project time was spent on exploration of algorithms and
 the CARLsim neurosimulator, written in C++
 
 
-
-For the full CV, [click here](../files/srikrishnasbhat_cv.pdf).
 
