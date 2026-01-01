@@ -236,7 +236,7 @@ collections:
   skills:
     output: true
     permalink: /:collection/:path/
-  hobbies_and_volunteers:
+  other_activities:
     ouput: true
     permalink: /:collection/:path/
 
