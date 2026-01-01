@@ -5,7 +5,7 @@ permalink: /skills/
 author_profile: true
 redirect_from:
   - /skills/
-  - skills.html
+  - /skills.html
 ---
 
 {% include base_path %}
