@@ -15,10 +15,10 @@ redirect_from:
 
 **July 2023 - Dec 2025**    **HDR Student Representative, Human-Centred Computing Unit, School of EECS, UQ**
                             *St Lucia, QLD, Australia*
-- Representing Higher Degree by Research (HDR) student concerns from HCC unit to the school
+- Representing concerns of Higher Degree by Research (HDR) students in the Human-Centred Computing (HCC) unit to the graduate school at UQ.
 - Organised two symposiums:
-  - Research Tools symposium highlighting and bringing awareness of various tools used by students in their respective domains for research.
-  - another on PhD Oral Examination guides and tips.
+  - Research Tools Symposium which highlighted and brought awareness about various tools used by students in their respective domains for research.
+  - PhD Oral Examination Symposium to resolve queries of HDR students regarding the Oral Examination process and to provide guides and tips on handling the exam.
 
 # Hobbies
 - Bouldering
